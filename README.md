@@ -5,7 +5,7 @@
     <title>Redirecting...</title>
 </head>
 <body>
-    <p>If you are not redirected, <a href="SacnBarcode.aspx">click here</a>.</p>
+    <p>If you are not redirected, <a href="Index.html">click here</a>.</p>
 </body>
 </html>
 
